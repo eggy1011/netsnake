@@ -14,24 +14,6 @@
 
 Studying networking means memorising a lot — protocols, devices, addressing, troubleshooting steps. Flashcards work but are boring; quiz sites reject answers that don't match the stored wording. NetSnake turns study into an arcade game: your snake burns energy with every move, and the only refill is answering a question *in your own words*. Miss a question and it comes back sooner. Master a topic and it fades away. You keep playing because the snake needs you.
 
----
-
-## 📸 Demo & Screenshots
-
-> _Placeholders — add captures to `docs/screenshots/` and update the paths below._
-
-| Landing page | Gameplay | Question grading |
-|---|---|---|
-| ![Landing](docs/screenshots/landing.png) | ![Gameplay](docs/screenshots/gameplay.png) | ![Question](docs/screenshots/question.png) |
-
-| Course Library | Progress analytics | Source registry |
-|---|---|---|
-| ![Courses](docs/screenshots/courses.png) | ![Progress](docs/screenshots/progress.png) | ![Sources](docs/screenshots/sources.png) |
-
-🎬 _Demo GIF placeholder: `docs/screenshots/demo.gif`_
-
----
-
 ## ✨ Features
 
 - **Snake, but educational** — classic gameplay (growth, collisions, bonus food, obstacles, wall-wrap mode, optional timed runs) with an energy bar that forces regular question breaks. Game difficulty ramps with score and is fully decoupled from learning content.
