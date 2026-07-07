@@ -1,0 +1,19 @@
+# dependencies & build output
+node_modules/
+dist/
+*.local
+
+# environment & secrets (never commit API keys)
+.env
+.env.*
+!.env.example
+
+# editor & OS noise
+.DS_Store
+.vscode/*
+!.vscode/extensions.json
+.idea/
+
+# logs & test output
+*.log
+coverage/

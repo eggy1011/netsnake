@@ -1,0 +1,42 @@
+{
+  "name": "netsnake",
+  "private": true,
+  "version": "2.0.0",
+  "description": "Learn networking by keeping a snake alive — a Snake game with semantically-graded networking questions, spaced review, verified sources, and Solution Engineer scenario practice.",
+  "keywords": [
+    "networking",
+    "learning-game",
+    "snake",
+    "spaced-repetition",
+    "solution-engineer",
+    "react",
+    "typescript",
+    "gemini"
+  ],
+  "author": "Claire Zhang",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "server": "node server/index.mjs",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "zod": "^3.24.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.0.0",
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "@vitejs/plugin-react": "^4.3.4",
+    "tailwindcss": "^4.0.0",
+    "typescript": "^5.6.3",
+    "vite": "^6.0.0",
+    "vitest": "^2.1.8"
+  }
+}
