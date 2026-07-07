@@ -1,6 +1,6 @@
-# 🐍⚡ NetSnake — Learn Networking by Keeping a Snake Alive
+# 🐍⚡ NetSnake -> Learn Networking by Keeping a Snake Alive
 
-> A retro-arcade Snake game where the only way to survive is to answer networking questions — graded on **meaning, not exact wording** — with spaced review, verified authoritative sources, and customer-facing Solution Engineer practice.
+> A retro-arcade Snake game where the only way to survive is to answer networking questions with spaced review, verified authoritative sources, and customer-facing Solution Engineer practice.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-strict-3178C6?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black)
