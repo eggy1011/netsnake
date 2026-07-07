@@ -12,11 +12,7 @@
 
 ## What is this?
 
-**For anyone:** studying networking means memorising a lot — protocols, devices, addressing, troubleshooting steps. Flashcards work but are boring; quiz sites reject answers that don't match the stored wording. NetSnake turns study into an arcade game: your snake burns energy with every move, and the only refill is answering a question *in your own words*. Miss a question and it comes back sooner. Master a topic and it fades away. You keep playing because the snake needs you.
-
-**For engineers/recruiters:** this is a full-stack TypeScript project — a canvas game engine, a semantic answer-evaluation pipeline (local concept rubric + optional LLM grading behind a key-protected backend), a spaced-repetition learning engine, and a 374-question content system where every question links to a verified authoritative source (IETF RFCs, NIST, CISA, official vendor docs).
-
-Built while preparing for **network engineering and Solution Engineer roles** — including 80 original customer scenarios practising discovery questions, objection handling, and translating technology into business value.
+Studying networking means memorising a lot — protocols, devices, addressing, troubleshooting steps. Flashcards work but are boring; quiz sites reject answers that don't match the stored wording. NetSnake turns study into an arcade game: your snake burns energy with every move, and the only refill is answering a question *in your own words*. Miss a question and it comes back sooner. Master a topic and it fades away. You keep playing because the snake needs you.
 
 ---
 
@@ -80,7 +76,7 @@ Key design decisions, briefly:
 git clone https://github.com/eggy1011/netsnake.git
 cd netsnake
 npm install
-npm run dev          # → http://localhost:5173
+npm run dev         
 ```
 
 That's it — the game runs entirely in the browser with the local rubric evaluator.
